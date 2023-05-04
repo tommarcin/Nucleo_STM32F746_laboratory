@@ -4,7 +4,10 @@ Laboratory projects for Nucleo STM32F746:
 - USART 
 - TIM
 - PWM
-- I2C (BH1750)
+- BH1750 (I2C)
+- BMP280 (I2C and SPI)
+- ADC - photoresistor, MCP9700
+
 
 ![photo](images/photo.jpg)
 
